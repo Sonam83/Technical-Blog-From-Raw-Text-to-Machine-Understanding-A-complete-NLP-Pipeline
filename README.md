@@ -6,7 +6,7 @@ This project explains the complete Natural Language Processing (NLP) pipeline, d
 
 The goal is to provide a beginner-friendly and practical understanding of key NLP concepts including preprocessing, text cleaning, and feature engineering.
 
-**🚀 Objective**
+# **🚀 Objective**
 
 Understand how machines process human language
 
@@ -16,15 +16,15 @@ Explore different text representation techniques
 
 Build strong fundamentals for real-world NLP applications
 
-**# 🧾 NLP Pipeline Flow**
+# **🧾 NLP Pipeline Flow**
 
 Raw Text → Cleaning → Preprocessing → Feature Extraction → Model Input
 
-**📖 1. Introduction to NLP**
+# **📖 1. Introduction to NLP**
 
 Natural Language Processing (NLP) is a branch of Artificial Intelligence that enables machines to understand and process human language.
 
-**Why Preprocessing is Required?**
+# **Why Preprocessing is Required?**
 
 Raw text is:
 
@@ -42,7 +42,7 @@ Improve model accuracy
 
 Reduce complexity
 
-**🌍 Real-World Applications**
+# **🌍 Real-World Applications**
 
 Chatbots
 
@@ -50,7 +50,7 @@ Sentiment Analysis
 
 Search Engines
 
-**🛠️ 2. Text Preprocessing Steps**
+# **🛠️ 2. Text Preprocessing Steps**
 
 🔹 Lowercasing
 
@@ -90,7 +90,7 @@ Convert to meaningful base form
 
 Example: "better" - "good"
 
-**3. Text Cleaning Challenges**
+# **3. Text Cleaning Challenges**
 
 🔹 Emojis
 
@@ -116,7 +116,7 @@ Normalization
 
 Text cleaning techniques
 
-**🔢 4. Feature Engineering (Vectorization)**
+# **🔢 4. Feature Engineering (Vectorization)**
 
 Text must be converted into numbers before feeding into ML models.
 
@@ -174,7 +174,7 @@ Cons:
 
 Loses word order
 
-**🚨 OOV (Out-Of-Vocabulary) Handling**
+# **🚨 OOV (Out-Of-Vocabulary) Handling**
 
 OOV words are words not seen during training.
 
@@ -188,7 +188,7 @@ Subword tokenization
 
 Use FastText or pretrained embeddings
 
-**📚GloVe (Global Vectors)**
+# **📚GloVe (Global Vectors)**
 
 Uses global word co-occurrence
 
@@ -198,7 +198,7 @@ Captures semantic relationships
 
 Limitation: Cannot handle OOV words effectively
 
-**🧪 Tools & Libraries**
+# **🧪 Tools & Libraries**
 
 Python
 
@@ -210,7 +210,7 @@ NumPy
 
 Pandas
 
-**📌 Conclusion**
+# **📌 Conclusion**
 
 Understanding the NLP pipeline is essential for building effective machine learning models for text data.
 
@@ -220,7 +220,7 @@ Feature engineering converts text into numbers
 
 Advanced models improve performance
 
-**🔗 Blog Link**
+# **🔗 Blog Link**
 
 👉 https://medium.com/@sonampawar830/from-raw-text-to-machine-understanding-a-complete-nlp-pipeline-b88b511b0463
 
