@@ -1,6 +1,6 @@
 # Technical-Blog-From-Raw-Text-to-Machine-Understanding-A-complete-NLP-Pipeline
 
-**📌 Project Overview**
+# **📌 Project Overview**
 
 This project explains the complete Natural Language Processing (NLP) pipeline, demonstrating how raw text data is transformed into a structured format suitable for machine learning models.
 
